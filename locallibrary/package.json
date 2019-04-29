@@ -7,7 +7,7 @@
     "devstart": "nodemon ./bin/www"
   },
 {
-  "name": "express-locallibrary-tutorial",
+  "name": "locallibrary",
   "version": "0.0.0",
   "engines": {
     "node": "10.15.0"
